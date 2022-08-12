@@ -1,0 +1,9 @@
+Bu projenizi direkt olarak glitchde çalıştırabilirsiniz. Eksiksiz olarak tüm dosyaları kullandığınızdan emin olun.
+
+Başka web host sağlayan sitelerde çalışmayada uygundur.
+
+Prefixi + olarak durmaktadır. Değiştirmeseniz daha iyi olur tüm komutlar onun üstüne kurulmuştur. ( Değiştirecekseniz komutlarıda düzeltmek zorundasınız)
+
+ilk önce ayarlar klasörünü kendi botunuza göre düzenleyin.
+
+İyi kullanımlar bu kadar basittir kullanması.
